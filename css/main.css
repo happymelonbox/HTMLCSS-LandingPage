@@ -308,6 +308,7 @@ letter-spacing: 3px;
 }
 
 footer {
+  display: flex;
   flex-wrap: wrap;
   position: relative;
   z-index: 0;
@@ -329,8 +330,8 @@ footer:after{
 
 .lists {
   flex: 0 0 75%;
-  left: 15px;
-  right: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
   padding-top: 40px;
   padding-bottom: 40px;
 }
