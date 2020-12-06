@@ -244,7 +244,7 @@ section {
   position: relative;
 }
 
-.full-banner::before {
+.full-banner:before {
   content: "";
   position: absolute;
   border: 1px solid #ffffff;
@@ -257,7 +257,7 @@ section {
 
 .full-banner-image{
   flex: 0 0 58.333333%;
-  background-image: url(../img/vista.jpg);
+  background-image: url(../vista.jpg);
   background-position: top center;
   background-size: cover;
 }
@@ -303,5 +303,4 @@ letter-spacing: 3px;
   margin-top: 50px;
   text-transform: uppercase;
   z-index: 1;
-
 }
