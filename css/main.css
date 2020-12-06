@@ -156,7 +156,7 @@ section {
 }
 
 .hero {
-  background-image: url(/Users/Justin/Desktop/Cert IV Web/Pluralsight Exercise Files/Rock Climbing/HTMLCSS-LandingPage/img/hero.jpg);
+  background-image: url('/Users/Justin/Desktop/Cert IV Web/Pluralsight Exercise Files/Rock Climbing/HTMLCSS-LandingPage/img/hero.jpg');
   height: 400px;
   background-size: cover;
   background-position: center;
