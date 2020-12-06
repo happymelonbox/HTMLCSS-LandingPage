@@ -156,29 +156,29 @@ section {
 }
 
 .hero {
-  background-image: url(img/hero.jpg);
+  background-image: url(/Users/Justin/Desktop/Cert IV Web/Pluralsight Exercise Files/Rock Climbing/HTMLCSS-LandingPage/img/hero.jpg);
   height: 400px;
   background-size: cover;
   background-position: center;
   text-transform: uppercase;
 }
 
-.hero div h1 {
+.hero h1 {
   position: relative;
   left: -30px;
 }
 
-.hero div h2 {
+.hero h2 {
   color: #faa541;
 }
 
-.hero div h1 h2 {
+.hero h1, .hero h2 {
   font-size: 63px;
   font-weight: 700;
   line-height: 0.9;
 }
 
-.hero div p {
+.hero p {
   letter-spacing: 2px;
   font-weight: 700;
   font-size: 21px;
